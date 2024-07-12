@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">firsttest123</string>
+    <string name="api_key">173d505d224a4a0b89f8de4bb20b5a44</string>
+
+    <string-array name="tags">
+        <item>main course</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>bread</item>
+        <item>breakfast</item>
+        <item>soup</item>
+        <item>beverage</item>
+        <item>sauce</item>
+        <item>fingerfood</item>
+        <item>marinade</item>
+        <item>snack</item>
+        <item>drink</item>
+
+
+
+
+    </string-array>
+
+</resources>
